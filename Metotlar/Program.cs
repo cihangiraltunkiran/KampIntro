@@ -51,9 +51,7 @@ namespace Metotlar
             //Deneme
 
             //Deneme 06.07.2021
-
             //Cihangir ALTUNKIRAN
-
         }
     }
 }
