@@ -47,16 +47,6 @@ namespace Metotlar
             sepetManager.Ekle2("Elma", "Yeşil elma", 24, 9);
             sepetManager.Ekle2("Karpuz", "Diyarbakır karpuzu", 18, 8);
 
-
-            //Deneme
-
-            //Deneme 06.07.2021
-
-            //Cihangir ALTUNKIRAN
-
-            //Deneme
-
-            //02.08.2021
         }
     }
 }
